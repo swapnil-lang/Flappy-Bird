@@ -158,7 +158,7 @@ void play() {
 
 	gotoxy(10, 5); cout << "Press any key to start";
 	_getch();
-	gotoxy(10, 5); cout << "                      ";
+	gotoxy(10, 5); cout << "   ";
 
 	while (1) {
 
